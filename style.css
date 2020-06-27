@@ -1,0 +1,27 @@
+.main
+{
+    border: 2px solid rgb(121, 118, 118);
+    width: 500px;
+    margin: 0 auto;
+}
+.result
+{
+    width: 98%;
+    height: 60px;
+    background-color: rgb(199, 199, 196);
+    font-size: 30pt;
+    border-radius: 15px;
+}
+.btn
+{
+    width: 122px;
+    height: 60px;
+    background-color: rgb(26, 109, 88);
+    color: cyan;
+    font-size: 40px;
+    border-style: outset;
+    -moz-box-shadow: 0 0 10px #777777;
+    -webkit-box-shadow: 0 0 10px #777777;
+    box-shadow: 0 0 10px #777777;
+    border-radius: 15px;
+}
